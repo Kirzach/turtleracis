@@ -35,3 +35,4 @@ while is_on:
 
 
 screen.exitonclick()
+print("hei")
